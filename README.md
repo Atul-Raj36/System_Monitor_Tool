@@ -6,8 +6,9 @@ It also allows sorting processes by CPU or memory and killing processes directly
 <h3>Features</h3>
 <ul>
   <li>Display CPU usage, memory usage, and system uptime in real-time.</li>
-  <li></li>
+  <li> List all running processes with:</li>
      <ul>
-       
+         <li>PID</li>
+         <li>Process Name</li>
      </ul>
 </ul>
