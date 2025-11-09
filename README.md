@@ -10,5 +10,14 @@ It also allows sorting processes by CPU or memory and killing processes directly
      <ul>
          <li>PID</li>
          <li>Process Name</li>
+         <li>CPU usage</li>
+         <li>memory usage</li>
      </ul>
+  <li>Sort processes dynamically by:</li>
+      <ul>
+        <li>CPU usage</li>
+        <li>Memory usage</li>
+      </ul>
+  <li>Kill processes by entering the PID.</li>
+  <li>Refreshes automatically every 1–2 seconds for real-time monitoring.</li>
 </ul>
